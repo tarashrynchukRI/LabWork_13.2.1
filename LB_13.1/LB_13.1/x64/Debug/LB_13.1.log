@@ -1,0 +1,6 @@
+﻿  dod.cpp
+  Main.cpp
+  sum.cpp
+C:\web\univer\AP\Lab_13\LB_13.1\LB_13.1\sum.cpp(15,15): error C4578: 'abs': conversion from 'double' to 'int', possible loss of data (Did you mean to call 'fabs' or to #include <cmath>?)
+  var.cpp
+  Generating Code...
